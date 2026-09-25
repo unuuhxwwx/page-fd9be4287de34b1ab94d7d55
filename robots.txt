@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://cn.mqljl.cn/sitemap.xml
